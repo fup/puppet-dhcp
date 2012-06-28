@@ -1,5 +1,4 @@
 # Usage #
-
 In your node or other definitions you can use these variables
 
 * dhcpd_authoritative - true/false if DHCPD server is authoritative
@@ -40,7 +39,7 @@ $dhcp_hosts = {
 		mac	=> '00:00:00:00:00:01',
 	},
 }
-	
+
 ```
 
 
